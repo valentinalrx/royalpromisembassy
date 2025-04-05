@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Royal Promise Embassy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welkom bij Royal Promise Embassy</h1>
+        <p>Een plek van geloof, gemeenschap en zegen.</p>
+    </header>
+
+    <section id="about">
+        <h2>Over Ons</h2>
+        <p>Royal Promise Embassy is een kerk die zich richt op het delen van het evangelie en het bouwen van een gemeenschap van gelovigen. Wij geloven in de kracht van Gods belofte en de liefde voor anderen.</p>
+    </section>
+
+    <section id="services">
+        <h2>Onze Diensten</h2>
+        <p>Onze wekelijkse diensten vinden plaats op de volgende tijden:</p>
+        <ul>
+            <li>Zondag: 10:00 uur</li>
+            <li>Donderdag: 19:00 uur (Bijbelstudie)</li>
+        </ul>
+    </section>
+
+    <section id="location">
+        <h2>Onze Locatie</h2>
+        <p>Kom ons bezoeken op:</p>
+        <p>Adres: [Jouw adres hier]</p>
+        <iframe src="https://www.google.com/maps/embed?pb=YOUR_GOOGLE_MAPS_EMBED_URL" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Heb je vragen? Neem contact met ons op via:</p>
+        <p>Email: info@royalpromiseembassy.nl</p>
+    </section>
+
+    <section id="donate">
+        <h2>Doneer</h2>
+        <p>Steun ons werk door te doneren:</p>
+        <p>[QR-code voor donaties of een link naar een platform]</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Royal Promise Embassy</p>
+    </footer>
+</body>
+</html>
